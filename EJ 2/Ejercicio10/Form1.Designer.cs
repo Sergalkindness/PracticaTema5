@@ -118,6 +118,9 @@ namespace Ejercicio10
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button sender;
+        private System.Windows.Forms.RadioButton radioButton;
+        private System.Windows.Forms.RadioButton radioButton2;
+
     }
 }
 
