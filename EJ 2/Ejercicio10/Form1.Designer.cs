@@ -112,12 +112,14 @@ namespace Ejercicio10
 
         #endregion
 
-        private System.Windows.Forms.CheckBox cbUrgente;
         private System.Windows.Forms.TextBox txtTelegrama;
         private System.Windows.Forms.TextBox txtPrecio;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button sender;
+        private System.Windows.Forms.RadioButton radioButton;
+        private System.Windows.Forms.RadioButton radioButton2;
+
     }
 }
 
