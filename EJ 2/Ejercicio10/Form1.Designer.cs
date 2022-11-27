@@ -112,7 +112,6 @@ namespace Ejercicio10
 
         #endregion
 
-        private System.Windows.Forms.CheckBox cbUrgente;
         private System.Windows.Forms.TextBox txtTelegrama;
         private System.Windows.Forms.TextBox txtPrecio;
         private System.Windows.Forms.Label label2;
